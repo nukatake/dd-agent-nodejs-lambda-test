@@ -23,4 +23,5 @@ datadog-ci lambda instrument -i
 
 
 # DatadogにTrace情報が送信される。
+<img width="1182" alt="スクリーンショット 2024-06-28 14 27 00" src="https://github.com/nukatake/dd-agent-nodejs-lambda-test/assets/102710052/4eaa4e6a-33fe-4a91-8777-8f1328e608ea">
 
