@@ -20,3 +20,8 @@ npm i -g @datadog/datadog-ci
 datadog-ci lambda instrument -i
 
 いろいろ聞かれるので回答すると指定した、Lambdaに変更が入る。
+
+
+# DatadogにTrace情報が送信される。
+<img width="1182" alt="スクリーンショット 2024-06-28 14 27 00" src="https://github.com/nukatake/dd-agent-nodejs-lambda-test/assets/102710052/214c1c74-186a-41f1-b212-adb0b473a0d0">
+
