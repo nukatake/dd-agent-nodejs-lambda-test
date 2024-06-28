@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "datadog-lambda-js": "^9.112.0",
+    "dd-trace": "^5.17.0"
+  }
+}
